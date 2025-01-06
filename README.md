@@ -52,7 +52,4 @@ MIT License - feel free to use this project for your own portfolio!
 5. Open a Pull Request
 
 ## 📧 Contact
-
-Sanskar - [@anotherhalf004](https://github.com/anotherhalf004)
-
-Project Link: [https://github.com/anotherhalf004/portfolio](https://github.com/anotherhalf004/portfolio)
+On LinkedIn : https://www.linkedin.com/in/sanskarjcse28
