@@ -124,7 +124,7 @@ function initializeEventListeners() {
             // Hide error overlay after delay
             setTimeout(() => {
                 errorOverlay.classList.remove('active');
-            }, 3000);
+            }, 1000);
         });
     }
     
